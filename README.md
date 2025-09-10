@@ -1,1 +1,1 @@
-# Python-Infinity_School
+# Python - Infinity School
